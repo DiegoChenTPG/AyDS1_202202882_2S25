@@ -7,3 +7,17 @@
 ### Creacion de rama hotfix 
 ![2](/imagenes/hotfix.png)
 
+### Generacion del tag de version release-2.0
+![3](/imagenes/tag2.png)
+
+### Ambos tags creados:
+![3](/imagenes/tags.png)
+
+### Eliminacion de rama hotfix
+![3](/imagenes/eliminacion.png)
+![3](/imagenes/eliminacion2.png)
+
+
+
+
+2025
