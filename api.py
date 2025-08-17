@@ -8,7 +8,7 @@ CORS(app)
 def show():
     return jsonify({
         "nombre": "Diego Rene Chen Teyul", 
-        "cancion_favorita": "LINDOR"
+        "album_favorito": "Paraiso"
     })
 
 if __name__ == "__main__":
