@@ -11,13 +11,16 @@
 ![3](/imagenes/tag2.png)
 
 ### Ambos tags creados:
-![3](/imagenes/tags.png)
+![4](/imagenes/tags.png)
 
 ### Eliminacion de rama hotfix
-![3](/imagenes/eliminacion.png)
-![3](/imagenes/eliminacion2.png)
+![5](/imagenes/eliminacion.png)
+![6](/imagenes/eliminacion2.png)
 
+### Captura de la primera version de la API
+![7](/imagenes/api1.png)
 
-
+### Captura de la segunda version de la API
+![8](/imagenes/api2.png)
 
 2025
